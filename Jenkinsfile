@@ -34,7 +34,7 @@ pipeline {
 
         // IMPORTANT: Replace 'yourimagename' with your desired image name.
 
-        IMAGE_NAME = "yukthip/myflaskapp"
+        IMAGE_NAME = "yukthiprabha/myflaskapp"
 
         // ID of the Docker Hub credentials stored in Jenkins (see Step 1)
 
